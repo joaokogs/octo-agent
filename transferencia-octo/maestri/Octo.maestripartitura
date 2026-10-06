@@ -1,0 +1,361 @@
+{
+  "appVersion" : "",
+  "color" : "#007AFF",
+  "createdAt" : "2026-10-02T14:16:35Z",
+  "description" : "",
+  "formatVersion" : 1,
+  "icon" : "book",
+  "id" : "37C82480-3AAE-4FF1-8F31-86E855BA0083",
+  "name" : "Octo",
+  "payload" : {
+    "connections" : [
+
+    ],
+    "drawings" : [
+
+    ],
+    "nodes" : [
+      {
+        "content" : {
+          "terminal" : {
+            "_0" : {
+              "activeChatThread" : 0,
+              "agentType" : "open_code",
+              "assignedRoleId" : "416D3626-A5FE-4437-8F0E-8EF08C0BFB33",
+              "chatThreads" : [
+                "C512C30D-EFCA-4A3A-A8B4-C36644F076F2",
+                "2D729D3C-77D1-1D56-3685-7D3300270159",
+                "A4E465DC-E114-6BE5-4AD9-862148DF87F5",
+                "3509A84D-A471-684F-CACA-113985656BA0",
+                "88B3B79D-86E3-052C-3114-25CBF4246EF6",
+                "AA6680D6-56DA-7E78-0591-B197043587B4",
+                "DD8E18E2-F0A9-F173-695B-C631AC79A4AC"
+              ],
+              "codexDaemonMigration" : "untouched",
+              "color" : "#007AFF",
+              "command" : "opencode --agent octo",
+              "fontSize" : 13,
+              "id" : "C512C30D-EFCA-4A3A-A8B4-C36644F076F2",
+              "isManager" : true,
+              "isUnloaded" : false,
+              "lastActiveAt" : "1970-01-01T00:00:00Z",
+              "localTmux" : false,
+              "monitorWithOmbro" : true,
+              "name" : "OpenCode",
+              "prefersChatMode" : false,
+              "scrollbackFile" : "",
+              "scrollbackLineCount" : 0,
+              "shellPath" : "",
+              "showsShellWindowDuringTurns" : true,
+              "startInChatMode" : false,
+              "status" : "restored",
+              "workingDirectory" : ""
+            }
+          }
+        },
+        "createdAt" : "2026-10-02T12:27:41Z",
+        "frame" : [
+          [
+            9960,
+            9580
+          ],
+          [
+            940,
+            580
+          ]
+        ],
+        "id" : "C512C30D-EFCA-4A3A-A8B4-C36644F076F2",
+        "isLocked" : false,
+        "isRedacted" : false,
+        "lastModifiedAt" : "2026-10-02T12:29:15Z",
+        "zIndex" : 7
+      },
+      {
+        "content" : {
+          "stickyNote" : {
+            "_0" : {
+              "color" : "yellow",
+              "fileName" : "tasks-3.md",
+              "fontSize" : 16,
+              "hasCustomName" : false,
+              "isContentLocked" : false,
+              "isPreviewing" : true,
+              "storageMode" : {
+                "managed" : {
+
+                }
+              }
+            }
+          }
+        },
+        "createdAt" : "2026-10-02T12:28:23Z",
+        "frame" : [
+          [
+            9820,
+            8060
+          ],
+          [
+            840,
+            1340
+          ]
+        ],
+        "id" : "8D18F01B-B538-4D64-ACCE-41BF7935F641",
+        "isLocked" : false,
+        "isRedacted" : false,
+        "lastModifiedAt" : "2026-10-02T14:15:57Z",
+        "zIndex" : 19
+      },
+      {
+        "content" : {
+          "stickyNote" : {
+            "_0" : {
+              "color" : "blue",
+              "fileName" : "todo-for-joao-pedro-3.md",
+              "fontSize" : 16,
+              "hasCustomName" : false,
+              "isContentLocked" : false,
+              "isPreviewing" : true,
+              "storageMode" : {
+                "managed" : {
+
+                }
+              }
+            }
+          }
+        },
+        "createdAt" : "2026-10-02T12:28:43Z",
+        "frame" : [
+          [
+            10720,
+            8580
+          ],
+          [
+            720,
+            820
+          ]
+        ],
+        "id" : "44FFC79C-5287-4DF0-B710-2E4AE82D1F0F",
+        "isLocked" : false,
+        "isRedacted" : false,
+        "lastModifiedAt" : "2026-10-02T12:29:02Z",
+        "zIndex" : 5
+      }
+    ],
+    "noteConnections" : [
+      {
+        "createdAt" : "2026-10-02T12:28:37Z",
+        "id" : "DDEFCC8E-307A-4197-B6D9-E5F64C2DFECA",
+        "noteNodeId" : "8D18F01B-B538-4D64-ACCE-41BF7935F641",
+        "ropePoints" : [
+          [
+            10430,
+            9580
+          ],
+          [
+            10415.893398385553,
+            9583.010084213825
+          ],
+          [
+            10401.840048438107,
+            9583.938016768316
+          ],
+          [
+            10387.80514299636,
+            9582.623449958166
+          ],
+          [
+            10374.117670621394,
+            9579.17147839073
+          ],
+          [
+            10361.020358485739,
+            9573.837325180315
+          ],
+          [
+            10348.643684757291,
+            9566.932370728762
+          ],
+          [
+            10337.028637021987,
+            9558.75137462306
+          ],
+          [
+            10326.164429822782,
+            9549.53861496905
+          ],
+          [
+            10316.017833247051,
+            9539.483978922446
+          ],
+          [
+            10306.549018031565,
+            9528.732536305723
+          ],
+          [
+            10297.717651351075,
+            9517.396716309699
+          ],
+          [
+            10289.483141872064,
+            9505.565145981172
+          ],
+          [
+            10281.80391659701,
+            9493.308962446617
+          ],
+          [
+            10274.637558609793,
+            9480.687346863644
+          ],
+          [
+            10267.941449025153,
+            9467.75234467386
+          ],
+          [
+            10261.673336310945,
+            9454.552186227556
+          ],
+          [
+            10255.79178685447,
+            9441.132693367626
+          ],
+          [
+            10250.256584345929,
+            9427.537165002204
+          ],
+          [
+            10245.02335261271,
+            9413.807731802759
+          ],
+          [
+            10240,
+            9400
+          ]
+        ],
+        "terminalId" : "C512C30D-EFCA-4A3A-A8B4-C36644F076F2"
+      },
+      {
+        "createdAt" : "2026-10-02T12:28:59Z",
+        "id" : "73FF9F55-6408-4493-8F73-6AF17918D9A9",
+        "noteNodeId" : "44FFC79C-5287-4DF0-B710-2E4AE82D1F0F",
+        "ropePoints" : [
+          [
+            10900,
+            9870
+          ],
+          [
+            10926.63042063723,
+            9870.997523513592
+          ],
+          [
+            10951.016870356287,
+            9860.447839763714
+          ],
+          [
+            10970.701982263827,
+            9842.53285853836
+          ],
+          [
+            10986.291079584362,
+            9820.897924438714
+          ],
+          [
+            10998.912834382445,
+            9797.34976149058
+          ],
+          [
+            11009.418943957975,
+            9772.72772798969
+          ],
+          [
+            11018.37932681816,
+            9747.445711165481
+          ],
+          [
+            11026.17484369024,
+            9721.72446250949
+          ],
+          [
+            11033.066754042013,
+            9695.690519285992
+          ],
+          [
+            11039.239881059004,
+            9669.421142548577
+          ],
+          [
+            11044.828832892534,
+            9642.966365491156
+          ],
+          [
+            11049.934501577187,
+            9616.35893858811
+          ],
+          [
+            11054.634360915485,
+            9589.619997571348
+          ],
+          [
+            11058.988892442427,
+            9562.764155953184
+          ],
+          [
+            11063.04581714104,
+            9535.80412154503
+          ],
+          [
+            11066.843143164864,
+            9508.753822097413
+          ],
+          [
+            11070.411508769883,
+            9481.62956652626
+          ],
+          [
+            11073.776007355771,
+            9454.449590857232
+          ],
+          [
+            11076.9587989671,
+            9427.232894769806
+          ],
+          [
+            11080,
+            9400
+          ]
+        ],
+        "terminalId" : "C512C30D-EFCA-4A3A-A8B4-C36644F076F2"
+      }
+    ],
+    "noteTexts" : {
+      "44FFC79C-5287-4DF0-B710-2E4AE82D1F0F" : "# TODO for João Pedro",
+      "8D18F01B-B538-4D64-ACCE-41BF7935F641" : "# TASKS\n\n"
+    },
+    "noteToNoteConnections" : [
+
+    ],
+    "portalConnections" : [
+
+    ],
+    "portalToPortalConnections" : [
+
+    ],
+    "sourceWorkingDirectory" : "",
+    "sourceWorkspaceId" : "27384F89-E180-41FC-AE64-4D0BD7E82A26",
+    "terminalChatArchives" : {
+      "C512C30D-EFCA-4A3A-A8B4-C36644F076F2" : {
+
+      }
+    }
+  },
+  "roles" : [
+    {
+      "color" : "#AF52DE",
+      "icon" : "brain",
+      "id" : "416D3626-A5FE-4437-8F0E-8EF08C0BFB33",
+      "name" : "Octo",
+      "prompt" : "Você é o Octo, o orquestrador desta equipe.\n\nUse a skill `maestri-manager` para coordenar. Suas regras completas de orquestração estão no agente OpenCode `octo` (`~\/.config\/opencode\/agents\/octo.md`) — siga-as e não as duplique aqui.\n\nFluxo mínimo:\n- Comece sempre com `maestri list` para ver a equipe e os nomes exatos.\n- Rode `maestri preset list` antes de recrutar, para usar o preset correto.\n- Toda delegação cria um novo terminal Maestri; nunca delegue via `task`.\n- Inicie cada trabalhador com o agente certo: `opencode --agent planner|coder|reviewer|explorer`, com a responsabilidade Maestri correspondente.\n- Envie a tarefa com `maestri ask`; em caso de timeout, use `maestri check` antes de reenviar.\n- Não afirme que algo foi concluído sem confirmação do trabalhador.\n\nRegistro em notas (obrigatório):\n- Use o bloco de notas `Tasks` para registrar o que está sendo feito, em linguagem simples, curta e objetiva, sempre como checkbox: `- [ ] tarefa`.\n- Assim que a tarefa for concluída, marque o checkbox: `- [x] tarefa`.\n- Se um item estiver fora do seu alcance, exigir permissão externa ou depender de uma decisão difícil, não o deixe só em `Tasks`: crie também a entrada no bloco de notas `TODO for João Pedro` como checkbox pendente, descrevendo de forma curta e objetiva o que está bloqueado e o que é preciso decidir\/autorizar.\n- Se a nota `Tasks` ou `TODO for João Pedro` não existir, crie-a com `maestri note create --name \"Tasks\"` \/ `maestri note create --name \"TODO for João Pedro\"`.\n- Leia a nota antes de alterá-la e use `maestri note edit` para atualizar itens, evitando apagar conteúdo existente.",
+      "schemaVersion" : 1
+    }
+  ]
+}
