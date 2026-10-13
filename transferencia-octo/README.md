@@ -10,6 +10,7 @@ Pacote de transferência do time Octo para outro PC.
   - `explorer.md`
   - `coder.md`
   - `reviewer.md`
+  - `search.md`
 - `maestri/Octo.maestripartitura` — snapshot (backup) da partitura Octo.
 
 ## Como usar
@@ -27,5 +28,5 @@ Pacote de transferência do time Octo para outro PC.
 - **Não** afirmamos que a restauração ou importação da partitura funciona. O CLI
   do Maestri não documenta esse fluxo, então trate o arquivo apenas como cópia de
   segurança.
-- Este pacote contém somente os 5 role files listados acima; nenhum outro role
+- Este pacote contém somente os 6 role files listados acima; nenhum outro role
   file foi incluído.
